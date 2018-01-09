@@ -1,8 +1,3 @@
-/*
-  FALTA
- 1. Pasarlo a p5js para que el isOver se compatible con el celular
- */
-
 ArrayList<Ball> ballList1= new ArrayList<Ball>();
 ArrayList<Ball> ballList2= new ArrayList<Ball>();
 ArrayList<Ball> ballList3= new ArrayList<Ball>();
