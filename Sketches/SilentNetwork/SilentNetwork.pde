@@ -1,8 +1,3 @@
-/*
-  FALTA
- 1. Pasarlo a p5js para que el mousePressed se compatible con el celular
-*/
-
 ArrayList<Node > nodeList1 = new ArrayList<Node >();
 ArrayList<Node > nodeList2 = new ArrayList<Node >();
 ArrayList<Node > nodeList3 = new ArrayList<Node >();
