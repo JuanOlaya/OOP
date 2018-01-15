@@ -6,10 +6,10 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 
 ## Links of the courses
 To see and interact with the sketches made the students you can visit:
-- [Object-Oriented Programming 2017.2](https://www.openprocessing.org/class/56631/)
-- [Computer Graphics 2017.2](https://www.openprocessing.org/class/56656/)
+- [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
+- [Computer Graphics (2017.2)](https://www.openprocessing.org/class/56656/)
 - Falta 2017.1
-- [Computer Graphics 2016.2](https://www.openprocessing.org/class/56330/)
+- [Computer Graphics (2016.2)](https://www.openprocessing.org/class/56330/)
 
 ## Table of contents
 - Class Car (One Instance - Move right method)
