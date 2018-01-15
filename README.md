@@ -5,7 +5,7 @@ The following exercises have been used in the subjects Object-Oriented Programmi
 To check the example sketches running please visit [OpenProcessing](https://www.openprocessing.org/user/65585/)
 
 ## Links of the courses
-To check the sketches made the students you can visit:
+To see and interact with the sketches made the students you can visit:
 - [Object-Oriented Programming (EAL) 2017.2](https://www.openprocessing.org/class/56631/)
 - [Computer Graphics (EAL) 2017.2](https://www.openprocessing.org/class/56656/)
 - Falta 2017.1
