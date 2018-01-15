@@ -11,7 +11,12 @@ To see and interact with the sketches made the students you can visit:
 - Falta 2017.1
 - [Computer Graphics (EAL) 2016.2](https://www.openprocessing.org/class/56330/)
 
-# Class Car (One Instance - Move right method)
+# Table of contents
+- Class Car (One Instance - Move right method)
+- Class Car (Two Instances - Move right and left methods)
+
+
+### Class Car (One Instance - Move right method)
 ![](Sketches/[Gif]/Exercise1.gif)
 
 ```
