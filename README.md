@@ -14,9 +14,10 @@ https://www.openprocessing.org/class/56631/
 Computer Graphics (EAL) 2016.3
 https://www.openprocessing.org/class/56330/
 
+# Class Car (One Instance)
 ![](Sketches/[Gif]/Exercise1.gif)
 
-❮img src="Sketches/Gif/Exercise1.gif" alt="Flowers in Chania" ❯
+
 
 ****************
 http://hello.processing.org/
