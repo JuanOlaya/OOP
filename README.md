@@ -20,7 +20,9 @@ https://www.openprocessing.org/class/56631/
 Computer Graphics (EAL) 2016.3
 https://www.openprocessing.org/class/56330/
 
- <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/-cpocAEvovAaeKLVpuug1Q/169742854123" data-did="da39a3ee5e6b4b0d3255bfef95601890afd80709"><a href="https://juanolaya16-blog.tumblr.com/post/169742854123">https://juanolaya16-blog.tumblr.com/post/169742854123</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ <a href="https://juanolaya16-blog.tumblr.com/post/169742854123">https://juanolaya16-blog.tumblr.com/post/169742854123</a>
+
+
 
 ****************
 https://gist.github.com/jordanorelli/4992290.html
