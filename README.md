@@ -6,11 +6,11 @@ The following exercises have been used in the subjects Object-Oriented Programmi
 
 To check the example sketches running please visit [OpenProcessing](https://www.openprocessing.org/user/65585/)
 
-# Links of the courses
-To check the sketches made the students you can visit
-[Object-Oriented Programming (EAL) 2017.3](https://www.openprocessing.org/class/56631/)
-[Computer Graphics (EAL) 2017.3](https://www.openprocessing.org/class/56656/)
-[Computer Graphics (EAL) 2016.3](https://www.openprocessing.org/class/56330/)
+## Links of the courses
+To check the sketches made the students you can visit:
+- [Object-Oriented Programming (EAL) 2017.3](https://www.openprocessing.org/class/56631/)
+- [Computer Graphics (EAL) 2017.3](https://www.openprocessing.org/class/56656/)
+- [Computer Graphics (EAL) 2016.3](https://www.openprocessing.org/class/56330/)
 
 # Class Car (One Instance)
 ![](Sketches/[Gif]/Exercise1.gif)
