@@ -1,6 +1,4 @@
 # Object-Oriented Programming (OOP) with Processing
-Object-Oriented Programming with Processing
-
 
 The following exercises have been used in the subjects Object-Oriented Programming (OOP) and Computer Graphics in the program Digital Media Engineering in the university School of Arts and Letters in Bogotá since 2016.2 to 2018.1. given by Juan Olaya. This subject was used [Processing](https://processing.org/)
 
@@ -15,7 +13,7 @@ To check the sketches made the students you can visit:
 
 # Class Car (One Instance)
 ![](Sketches/[Gif]/Exercise1.gif)
-Download the code to start the course:
+Download the code to start the course
 
 
 
