@@ -16,7 +16,7 @@ https://www.openprocessing.org/class/56330/
 
 ![](Sketches/[Gif]/Exercise1.gif)
 
-❮img src="Sketches/[Gif]/Exercise1.gif" ❯
+❮img src="Sketches/Gif/Exercise1.gif" ❯
 
 ****************
 http://hello.processing.org/
