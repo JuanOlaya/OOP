@@ -15,9 +15,8 @@ Computer Graphics (EAL) 2016.3
 https://www.openprocessing.org/class/56330/
 
 # Class Car (One Instance)
-![](Sketches/[Gif]/Exercise1.gif)
-Download the code to start the course:
 
+Download the code to start the course:
 
 https://juanolaya.github.io/OOP-with-Processing/
 
