@@ -13,6 +13,12 @@ To check the sketches made the students you can visit:
 
 # Class Car (One Instance)
 ![](Sketches/[Gif]/Exercise1.gif)
+
+```
+Codigo clase car aqui
+```
+
+
 Download the code to start the course
 
 
