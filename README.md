@@ -11,7 +11,7 @@ To check the sketches made the students you can visit:
 - Falta 2017.1
 - [Computer Graphics (EAL) 2016.2](https://www.openprocessing.org/class/56330/)
 
-# Class Car (One Instance)
+# Class Car (One Instance - Move right method)
 ![](Sketches/[Gif]/Exercise1.gif)
 
 ```
