@@ -6,12 +6,6 @@ The following exercises have been used in the subjects Object-Oriented Programmi
 
 To check the sketches running please visit https://www.openprocessing.org/user/65585/
 
-
-
-
-
-
-
 To check the sketches made the students you can visit
 Computer Graphics (EAL) 2017.3
 https://www.openprocessing.org/class/56656/
@@ -20,11 +14,10 @@ https://www.openprocessing.org/class/56631/
 Computer Graphics (EAL) 2016.3
 https://www.openprocessing.org/class/56330/
 
- <a href="https://juanolaya16-blog.tumblr.com/post/169742854123">https://juanolaya16-blog.tumblr.com/post/169742854123</a>
+![](Sketches/[Gif]/Exercise1.gif)
 
-
+❮img src="Sketches/[Gif]/Exercise1.gif" ❯
 
 ****************
-https://gist.github.com/jordanorelli/4992290.html
 http://hello.processing.org/
 http://www.mas.caad.arch.ethz.ch/mas1011/index85b3.html?p=197
