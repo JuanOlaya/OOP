@@ -17,7 +17,7 @@ To see and interact with the sketches made the students you can visit:
 
 
 ### Class Car (One Instance - Move right method)
-![](Sketches/[Gif]/Exercise1.gif)
+![](Sketches/Gif/Exercise1.gif)
 
 ```
 Codigo clase car aqui
