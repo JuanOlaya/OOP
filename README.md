@@ -25,8 +25,11 @@ Codigo clase car aqui
 ```
 Download the code to start the course
 
-### Class Car (Two Instances - Move right and left methods)
+### Class Car (Two Instances + Move right and left methods)
 ![](Sketches/Gif/Exercise2.gif)
+
+### Class Car (Multiple Instances in an ArrayList + Move right and left methods)
+![](Sketches/Gif/Exercise3.gif)
 
 
 
