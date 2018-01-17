@@ -17,7 +17,7 @@ To see and interact with the sketches made the students you can visit:
 - Class Car (Two Instances - Move right and left methods)
 
 
-### Class Car (One Instance - Move right method)
+### Class Car (One Instance + Move right method)
 ![](Sketches/Gif/Exercise1.gif)
 
 ```
