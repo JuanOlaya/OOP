@@ -23,9 +23,12 @@ To see and interact with the sketches made the students you can visit:
 ```
 Codigo clase car aqui
 ```
-
-
 Download the code to start the course
+
+![](Sketches/Gif/Exercise2.gif)
+
+
+
 
 
 
