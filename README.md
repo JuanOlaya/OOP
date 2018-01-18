@@ -28,10 +28,10 @@ Download the code to start the course
 ### Class Car (Two Instances + Move right and left methods)
 ![](Sketches/Gif/Exercise2.gif)
 
-### Class Car (Multiple Instances + ArrayList + Move right and left methods)
+### Class Car (Multiple Instances + ArrayList + Move Right/Left methods)
 ![](Sketches/Gif/Exercise3.gif)
 
-### Class Car (Multiple Constructors + Multiple Instances + ArrayList + Move right and left methods)
+### Class Car (Multiple Constructors + Multiple Instances + ArrayList + Move Right/Left methods)
 ![](Sketches/Gif/Exercise4.gif)
 
 
