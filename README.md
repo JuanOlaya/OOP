@@ -13,11 +13,12 @@ To see and interact with the sketches made the students you can visit:
 
 
 ## Table of contents
-- Class Car (One Instance - Move right method)
-- Class Car (Two Instances - Move right and left methods)
+- Class Car (One Instance - Move right Method)
+- Class Car (Two Instances - Move right and left Methods)
 
 
-#### Class Car (One Instance + Move Right method)
+#### 1. Class Car: 
+One Instance + Move Right Method
 ![](Sketches/Gif/Exercise1.gif)
 
 ```
@@ -25,17 +26,25 @@ Codigo clase car aqui
 ```
 Download the code to start the course
 
-#### Class Car (Two Instances + Move Right/Left methods)
+#### 2. Class Car: 
+Two Instances + Move Right/Left Methods
 ![](Sketches/Gif/Exercise2.gif)
 
-#### Class Car (Multiple Instances + ArrayList + Move Right/Left methods)
+#### 3. Class Car: 
+Multiple Instances + ArrayList + Move Right/Left Methods
 ![](Sketches/Gif/Exercise3.gif)
 
-#### Class Car (Rebound Method + Multiple Constructors + ArrayList(Instances) + Move method)
+#### 4. Class Car: 
+Rebound Method + Multiple Constructors + ArrayList(Instances) + Move Method
 ![](Sketches/Gif/Exercise4.gif)
 
-#### Class Car (Vectors for Movement + Rebound method + Multiple Constructors + ArrayList(Instances))
+#### 5. Class Car: 
+Vectors for Movement + Rebound Method + Multiple Constructors + ArrayList(Instances)
 ![](Sketches/Gif/Exercise5.gif)
+
+#### 6. Class Ball: 
+Vectors for Gravity + Rebound Method + ArrayList(Instances)
+![](Sketches/Gif/Exercise6.gif)
 
 
 
