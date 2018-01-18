@@ -52,8 +52,11 @@ Vectors for Gravity + Rebound Method + ArrayList(Instances)
 
 ![](Sketches/Gif/Exercise6.gif)
 
+#### 7. Coding Challenge: 
+Multiple instances of the Class Car showing a X
+![](Sketches/Gif/CodingChallenge1.gif)
 
-
+#### 7. Coding Challenge: 
 
 
 
