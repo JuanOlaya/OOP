@@ -38,17 +38,17 @@ Multiple Instances + ArrayList + Move Right/Left Methods
 ![](Sketches/Gif/Exercise3.gif)
 
 #### 4. Class Car: 
-Rebound Method + Multiple Constructors + ArrayList(Instances) + Move Method
+Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Move Method
 
 ![](Sketches/Gif/Exercise4.gif)
 
 #### 5. Class Car: 
-Vectors for Movement + Rebound Method + Multiple Constructors + ArrayList(Instances)
+Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList
 
 ![](Sketches/Gif/Exercise5.gif)
 
 #### 6. Class Ball: 
-Vectors for Gravity + Rebound Method + ArrayList(Instances)
+Vectors for Gravity + Rebound Method + + Multiple Instances + ArrayList
 
 ![](Sketches/Gif/Exercise6.gif)
 
@@ -58,7 +58,7 @@ Multiple instances of the Class Car showing a X
 ![](Sketches/Gif/CodingChallenge1.gif)
 
 #### 8. Coding Challenge 2: 
-Multiple instances of the Class Car showing a X
+Multiple instances of the Class Node showing a network
 
 ![](Sketches/Gif/CodingChallenge2.gif)
 
