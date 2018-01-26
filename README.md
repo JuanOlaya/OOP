@@ -5,7 +5,7 @@ The following exercises have been used in the subjects Object-Oriented Programmi
 To check the example sketches running please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
 ## Taught courses
-To see and interact with the sketches made the students you can visit:
+To see and interact with the sketches made by the students you can visit:
 - [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
 - [Computer Graphics (2017.2)](https://www.openprocessing.org/class/56656/)
 - [Computer Graphics (2017.1)](https://www.openprocessing.org/class/56330/)
