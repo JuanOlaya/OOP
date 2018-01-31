@@ -19,7 +19,56 @@ One Instance + Move Right Method
 </p>
 
 ```
-Codigo clase car aqui
+Car car1;
+
+void setup() 
+{
+  size(550,300);
+  // Initialize Car object
+  car1 = new Car();
+}
+
+void draw() 
+{
+  background(140);
+  // Operate Car object.
+  car1.move();
+  car1.display();
+}
+```
+```
+class Car 
+{
+  color colour;
+  float xpos;
+  float ypos;
+  float xspeed;
+  
+  Car() 
+  {
+    colour = color(#FE9601);
+    xpos = width/2-100;
+    ypos = height/2-40;
+    xspeed = 3;
+  }
+  
+  void display() 
+  {
+    // The car is just a square
+    noStroke();
+    fill(colour);
+    rect(xpos, ypos, 100, 50);
+  }
+  
+  void move() 
+  {
+    xpos = xpos + xspeed;
+    if (xpos > width) 
+    {
+      xpos = -100;
+    }
+  }
+}
 ```
 Download the code to start the course
 
