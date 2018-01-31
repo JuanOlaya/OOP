@@ -19,6 +19,7 @@ One Instance + Move Right Method
 </p>
 
 ```
+// Script
 Car car1;
 
 void setup() 
@@ -70,7 +71,6 @@ class Car
   }
 }
 ```
-Download the code to start the course
 
 #### 2. Class Car: 
 Two Instances + Move Right/Left Methods
