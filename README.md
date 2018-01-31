@@ -97,6 +97,13 @@ To see and interact with the sketches made by the students you can visit:
 # EXAMPLE SKETCHES
 To check the example sketches running please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
+<p align="center">
+  <a href="https://www.openprocessing.org/user/65585/" target="_blank">
+    <img src="Images/openProcessingProfile.png" width=600 height=340>
+  </a>
+</p>
+
+
 ****************
 INCLUIR CLASE BOTON
 http://hello.processing.org/
