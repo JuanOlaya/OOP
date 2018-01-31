@@ -99,7 +99,7 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 
 <p align="center">
   <a href="https://www.openprocessing.org/user/65585/" target="_blank">
-    <img src="Images/openProcessingProfile.png" width=400 height=375>
+    <img src="Images/openProcessingProfile.png" width=300 height=275>
   </a>
 </p>
 
