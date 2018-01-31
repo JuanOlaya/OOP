@@ -156,6 +156,6 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 
 ***
 
-## Computer Graphics Links:
-[The Coding Train](https://www.youtube.com/user/shiffman)
-[Hello Processing](http://hello.processing.org/)
+## Processing Links:
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Hello Processing](http://hello.processing.org/)
