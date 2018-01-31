@@ -2,7 +2,7 @@
 
 This repository is associated with the courses Object-Oriented Programming (OOP) and Computer Graphics taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya since the semester 2016.2 to the present. 
 
-For this course we use [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
+For this course we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
 
 ## Table of contents
 - Class Car (One Instance - Move right Method)
@@ -136,6 +136,8 @@ Multiple instances of the Class Node showing a network
   </a>
 </p>
 
+***
+
 # STUDENT SKETCHES
 To see and interact with the sketches made by the students you can visit:
 - [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
@@ -152,8 +154,8 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
   </a>
 </p>
 
+***
 
-****************
-INCLUIR CLASE BOTON
-http://hello.processing.org/
-http://www.mas.caad.arch.ethz.ch/mas1011/index85b3.html?p=197
+## Computer Graphics Links:
+[The Coding Train](https://www.youtube.com/user/shiffman)
+[Hello Processing](http://hello.processing.org/)
