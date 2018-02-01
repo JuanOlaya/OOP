@@ -166,10 +166,10 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 ### Processing Bibliography
 - [Learning Processing Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
 - [Nature of Code - Shiffman (2012) Online version](http://natureofcode.com/book/)
+- [A Study Path For Game Programmer - Yip (2016)](https://github.com/miloyip/game-programmer)
 
 ### Processing Links:
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
 - [Hello Processing](http://hello.processing.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Processing Foundation](https://processingfoundation.org/)
-- [A Study Path For Game Programmer](https://github.com/miloyip/game-programmer)
