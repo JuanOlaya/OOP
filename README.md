@@ -5,14 +5,20 @@ This repository is associated with the courses: Object-Oriented Programming (OOP
 For this course we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
 
 ## Table of contents
-- [Step 1: (One Instance + Move Right Method)](#1.-class-car)
-- [Step 2: (Two Instances + Move right and left Methods)](#2.-class-car)
-- [Step 3: (Two Instances + Move right and left Methods)](#3.-class-car)
-- [Step 4: (Multiple Instances + ArrayList + Move Right/Left Methods)](#4.-class-car)
-- [Step 5: (Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList)](#5.-class-car)
-- [Step 5: (Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList)](#6.-class-car)
+- [Step 1: (One Instance + Move Right Method)](#step-1)
+- [Step 2: (Two Instances + Move right and left Methods)](#step-2)
+- [Step 3: (Two Instances + Move right and left Methods)](#step-3)
+- [Step 4: (Multiple Instances + ArrayList + Move Right/Left Methods)](#step-4)
+- [Step 5: (Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList)](#step-5)
+- [Step 6: (Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList)](#step-6)
+- [Coding Challenge 1: Multiple instances of the Class Car showing a X](#coding-challenge-1)
+- [Coding Challenge 2: Multiple instances of the Class Node showing a network](#coding-challenge-2)
+- [Processing Bibliography](#processing-bibliography)
+- [Studente Sketches](#student-sketches)
+- [Example Sketches](#example-sketches)
+- [Processing Links](#processing-Links)
 
-#### 1. Class Car: 
+#### Step 1: 
 One Instance + Move Right Method
 
 <p align="center">
@@ -75,7 +81,7 @@ class Car
 }
 ```
 
-#### 2. Class Car: 
+#### Step 2: 
 Two Instances + Move Right/Left Methods
 
 <p align="center">
@@ -84,7 +90,7 @@ Two Instances + Move Right/Left Methods
   </a>
 </p>
 
-#### 3. Class Car: 
+#### Step 3: 
 Multiple Instances + ArrayList + Move Right/Left Methods
 
 <p align="center">
@@ -93,7 +99,7 @@ Multiple Instances + ArrayList + Move Right/Left Methods
   </a>
 </p>
 
-#### 4. Class Car: 
+####  Step 4: 
 Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Move Method
 
 <p align="center">
@@ -102,7 +108,7 @@ Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Move M
   </a>
 </p>
 
-#### 5. Class Car: 
+#### Step 5: 
 Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList
 
 <p align="center">
@@ -111,7 +117,7 @@ Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instanc
   </a>
 </p>
 
-#### 6. Class Ball: 
+#### Step 6: 
 Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList
 
 <p align="center">
@@ -121,7 +127,7 @@ Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList
 </p>
 
 
-#### 7. Coding Challenge 1: 
+#### Coding Challenge 1: 
 Multiple instances of the Class Car showing a X
 
 <p align="center">
@@ -130,7 +136,7 @@ Multiple instances of the Class Car showing a X
   </a>
 </p>
 
-#### 8. Coding Challenge 2: 
+#### Coding Challenge 2: 
 Multiple instances of the Class Node showing a network
 
 <p align="center">
