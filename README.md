@@ -8,9 +8,9 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 - [Step 1: One Instance + Function move right](#step-1)
 - [Step 2: Two Instances + Functions move right/left](#step-2)
 - [Step 3: Two Instances + Functions move right/left](#step-3)
-- [Step 4: Multiple Instances + ArrayList + Rebound Method + Functions move right/left](#step-4)
-- [Step 5: Multiple Instances + ArrayList + Rebound Method + Motion vectors + Multiple Constructors](#step-5)
-- [Step 6: Multiple Instances + ArrayList + Rebound Method + Gravity vectors](#step-6)
+- [Step 4: Multiple Instances + ArrayList + Rebound Function + Functions move right/left](#step-4)
+- [Step 5: Multiple Instances + ArrayList + Rebound Function + Motion vectors + Multiple Constructors](#step-5)
+- [Step 6: Multiple Instances + ArrayList + Rebound Function + Gravity vectors](#step-6)
 - [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
@@ -96,7 +96,7 @@ Multiple Instances + ArrayList + Functions move right/left
 </p>
 
 ####  Step 4: 
-Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left
+Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
   <a>
@@ -105,7 +105,7 @@ Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Functi
 </p>
 
 #### Step 5: 
-Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList
+Vectors for Movement + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
 
 <p align="center">
   <a>
@@ -114,7 +114,7 @@ Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instanc
 </p>
 
 #### Step 6: 
-Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList
+Vectors for Gravity + Rebound Function + Multiple Instances + ArrayList
 
 <p align="center">
   <a>
