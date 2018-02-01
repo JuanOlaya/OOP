@@ -146,14 +146,14 @@ Multiple instances of the Class Node showing a network
 
 ***
 
-# STUDENT SKETCHES
+# Student Sketches
 To see and interact with the sketches made by the students you can visit:
 - [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
 - [Computer Graphics (2017.2)](https://www.openprocessing.org/class/56656/)
 - [Computer Graphics (2017.1)](https://www.openprocessing.org/class/56330/)
 - [Computer Graphics (2016.2)](https://www.openprocessing.org/class/55669)
 
-# EXAMPLE SKETCHES
+# Example Sketches
 To check the example sketches running please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
 <p align="center">
