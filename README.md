@@ -4,7 +4,7 @@ This repository is associated with the courses: Object-Oriented Programming (OOP
 
 For this course we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
 
-## Table of contents
+## Course steps
 - [Step 1: (One Instance + Move Right Method)](#step-1)
 - [Step 2: (Two Instances + Move right and left Methods)](#step-2)
 - [Step 3: (Two Instances + Move right and left Methods)](#step-3)
@@ -13,10 +13,6 @@ For this course we use the Java library [Processing](https://processing.org/) an
 - [Step 6: (Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList)](#step-6)
 - [Coding Challenge 1: Multiple instances of the Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Multiple instances of the Class Node showing a network](#coding-challenge-2)
-- [Processing Bibliography](#processing-bibliography)
-- [Studente Sketches](#student-sketches)
-- [Example Sketches](#example-sketches)
-- [Processing Links](#processing-Links)
 
 #### Step 1: 
 One Instance + Move Right Method
