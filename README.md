@@ -2,20 +2,20 @@
 
 This repository is associated with the courses: Object-Oriented Programming (OOP) and Computer Graphics, which were taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá) by Juan Olaya since the semester 2016.2 to the present. 
 
-For those courses we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the course steps.
+For those courses we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the course steps:
 
 ## Course steps
-- [Step 1: (One Instance + Move Right Method)](#step-1)
-- [Step 2: (Two Instances + Move right and left Methods)](#step-2)
-- [Step 3: (Two Instances + Move right and left Methods)](#step-3)
-- [Step 4: (Multiple Instances + ArrayList + Move Right/Left Methods)](#step-4)
-- [Step 5: (Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList)](#step-5)
-- [Step 6: (Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList)](#step-6)
-- [Coding Challenge 1: Multiple instances of the Class Car showing a X](#coding-challenge-1)
-- [Coding Challenge 2: Multiple instances of the Class Node showing a network](#coding-challenge-2)
+- [Step 1: One Instance + Function move right](#step-1)
+- [Step 2: Two Instances + Functions move right/left](#step-2)
+- [Step 3: Two Instances + Functions move right/left](#step-3)
+- [Step 4: Multiple Instances + ArrayList + Rebound Method + Functions move right/left](#step-4)
+- [Step 5: Multiple Instances + ArrayList + Rebound Method + Motion vectors + Multiple Constructors](#step-5)
+- [Step 6: Multiple Instances + ArrayList + Rebound Method + Gravity vectors](#step-6)
+- [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
+- [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
 #### Step 1: 
-One Instance + Move Right Method
+One Instance + Function move right
 
 <p align="center">
   <a>
@@ -78,7 +78,7 @@ class Car
 ```
 
 #### Step 2: 
-Two Instances + Move Right/Left Methods
+Two Instances + Functions move right/left
 
 <p align="center">
   <a>
@@ -87,7 +87,7 @@ Two Instances + Move Right/Left Methods
 </p>
 
 #### Step 3: 
-Multiple Instances + ArrayList + Move Right/Left Methods
+Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
   <a>
@@ -96,7 +96,7 @@ Multiple Instances + ArrayList + Move Right/Left Methods
 </p>
 
 ####  Step 4: 
-Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Move Method
+Rebound Method + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
   <a>
