@@ -9,8 +9,8 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 - [Step 2: Two Instances + Functions move right/left](#step-2)
 - [Step 3: Multiple Instances + ArrayList + Functions move right/left](#step-3)
 - [Step 4: Multiple Instances + ArrayList + Functions move right/left + Rebound Function](#step-4)
-- [Step 5: Multiple Instances + ArrayList + Rebound Function + Location vector + Multiple Constructors](#step-5)
-- [Step 6: Multiple Instances + ArrayList + Rebound Function + Velocity vector + Gravity vector](#step-6)
+- [Step 5: Multiple Instances + ArrayList + Rebound Function + Location Vector + Multiple Constructors](#step-5)
+- [Step 6: Multiple Instances + ArrayList + Rebound Function + Velocity Vector + Gravity Vector](#step-6)
 - [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
@@ -107,7 +107,7 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 </p>
 
 #### Step 5: 
-Location vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
+Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
 
 <p align="center">
   <a>
@@ -116,7 +116,7 @@ Location vector + Rebound Function + Multiple Constructors + Multiple Instances 
 </p>
 
 #### Step 6: 
-Velocity vector + Gravity vector + Rebound Function + Multiple Instances + ArrayList
+Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + ArrayList
 
 
 <p align="center">
