@@ -127,7 +127,7 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
 
 
 #### Coding Challenge 1: 
-Multiple instances of the Class Car showing a X
+Multiple instances of the Class Car shaping a X
 
 <p align="center">
   <a>
