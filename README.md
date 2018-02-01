@@ -19,7 +19,7 @@ One Instance + Move Right Method
 </p>
 
 ```
-// Script
+// Script that operates an instance of the class Car
 Car car1;
 
 void setup() 
