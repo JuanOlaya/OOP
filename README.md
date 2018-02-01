@@ -5,8 +5,8 @@ This repository is associated with the courses: Object-Oriented Programming (OOP
 For this course we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
 
 ## Table of contents
-- [Class Car (One Instance + Move Right Method)](#1.-class-car:)
-- [Class Car (Two Instances - Move right and left Methods)](#2.-class-car:)
+- [Class Car (One Instance + Move Right Method)](#1.-class-car)
+- [Class Car (Two Instances - Move right and left Methods)](#2.-class-car)
 
 #### 1. Class Car: 
 One Instance + Move Right Method
