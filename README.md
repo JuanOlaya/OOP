@@ -7,10 +7,10 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 ## Course steps
 - [Step 1: One Instance + Function move right](#step-1)
 - [Step 2: Two Instances + Functions move right/left](#step-2)
-- [Step 3: Two Instances + Functions move right/left](#step-3)
-- [Step 4: Multiple Instances + ArrayList + Rebound Function + Functions move right/left](#step-4)
-- [Step 5: Multiple Instances + ArrayList + Rebound Function + Motion vectors + Multiple Constructors](#step-5)
-- [Step 6: Multiple Instances + ArrayList + Rebound Function + Gravity vectors](#step-6)
+- [Step 3: Multiple Instances + ArrayList + Functions move right/left](#step-3)
+- [Step 4: Multiple Instances + ArrayList + Functions move right/left + Rebound Function](#step-4)
+- [Step 5: Multiple Instances + ArrayList + Rebound Function + Location vector + Multiple Constructors](#step-5)
+- [Step 6: Multiple Instances + ArrayList + Rebound Function + Velocity vector + Gravity vector](#step-6)
 - [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
@@ -89,6 +89,8 @@ Two Instances + Functions move right/left
 #### Step 3: 
 Multiple Instances + ArrayList + Functions move right/left
 
+
+
 <p align="center">
   <a>
     <img src="Images/Exercise3.gif" width=350 height=190>
@@ -105,7 +107,7 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 </p>
 
 #### Step 5: 
-Vectors for Movement + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
+Location vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
 
 <p align="center">
   <a>
@@ -114,7 +116,8 @@ Vectors for Movement + Rebound Function + Multiple Constructors + Multiple Insta
 </p>
 
 #### Step 6: 
-Vectors for Gravity + Rebound Function + Multiple Instances + ArrayList
+Velocity vector + Gravity vector + Rebound Function + Multiple Instances + ArrayList
+
 
 <p align="center">
   <a>
@@ -161,7 +164,7 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 
 ***
 ## Processing Bibliography
-- [Learning Processing - Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
+- [Learning Processing Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
 - [Nature of Code - Shiffman (2012) Online version](http://natureofcode.com/book/)
 
 ## Processing Links:
