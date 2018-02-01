@@ -146,14 +146,14 @@ Multiple instances of the Class Node showing a network
 
 ***
 
-# Student Sketches
+### Student Sketches
 To see and interact with the sketches made by the students you can visit:
 - [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
 - [Computer Graphics (2017.2)](https://www.openprocessing.org/class/56656/)
 - [Computer Graphics (2017.1)](https://www.openprocessing.org/class/56330/)
 - [Computer Graphics (2016.2)](https://www.openprocessing.org/class/55669)
 
-# Example Sketches
+### Example Sketches
 To check the example sketches running please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
 <p align="center">
@@ -163,11 +163,11 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 </p>
 
 ***
-## Processing Bibliography
+### Processing Bibliography
 - [Learning Processing Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
 - [Nature of Code - Shiffman (2012) Online version](http://natureofcode.com/book/)
 
-## Processing Links:
+### Processing Links:
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
 - [Hello Processing](http://hello.processing.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
