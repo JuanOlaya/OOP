@@ -137,8 +137,8 @@ Multiple instances of the Class Node showing a network
 </p>
 
 ### Processing Bibliography
-[Learning Processing - Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
-[Nature of Code - Shiffman (2012) Online version](http://natureofcode.com/book/)
+- [Learning Processing - Second Edition - Shiffman (2015) Online version](http://learningprocessing.com/examples/)
+- [Nature of Code - Shiffman (2012) Online version](http://natureofcode.com/book/)
 
 ***
 
