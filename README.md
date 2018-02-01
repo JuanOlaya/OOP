@@ -136,7 +136,7 @@ Multiple instances of the Class Car shaping a X
 </p>
 
 #### Coding Challenge 2: 
-Multiple instances of the Class Node showing a network
+Multiple instances of the Class Node showing a dynamic network
 
 <p align="center">
   <a>
