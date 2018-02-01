@@ -5,8 +5,12 @@ This repository is associated with the courses: Object-Oriented Programming (OOP
 For this course we use the Java library [Processing](https://processing.org/) and his JavaScript version [P5js](https://p5js.org/). The following are the components required for the course. 
 
 ## Table of contents
-- [Class Car (One Instance + Move Right Method)](#1.-class-car)
-- [Class Car (Two Instances - Move right and left Methods)](#2.-class-car)
+- [Step 1: (One Instance + Move Right Method)](#1.-class-car)
+- [Step 2: (Two Instances + Move right and left Methods)](#2.-class-car)
+- [Step 3: (Two Instances + Move right and left Methods)](#3.-class-car)
+- [Step 4: (Multiple Instances + ArrayList + Move Right/Left Methods)](#4.-class-car)
+- [Step 5: (Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instances + ArrayList)](#5.-class-car)
+- [Step 5: (Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList)](#6.-class-car)
 
 #### 1. Class Car: 
 One Instance + Move Right Method
@@ -108,7 +112,7 @@ Vectors for Movement + Rebound Method + Multiple Constructors + Multiple Instanc
 </p>
 
 #### 6. Class Ball: 
-Vectors for Gravity + Rebound Method + + Multiple Instances + ArrayList
+Vectors for Gravity + Rebound Method + Multiple Instances + ArrayList
 
 <p align="center">
   <a>
