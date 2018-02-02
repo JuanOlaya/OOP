@@ -164,6 +164,7 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 
 ***
 ### Processing Bibliography
+- [Getting Started with Processing: A Hands-On Introduction to Making Interactive Graphics](https://www.amazon.com/Getting-Started-Processing-Hands-Introduction/dp/1457187086/ref=sr_1_1?s=books&ie=UTF8&qid=1517548151&sr=1-1&keywords=getting+started+with+processing)
 - [Learning Processing Second Edition, Shiffman (2015) Online version](http://learningprocessing.com/examples/)
 - [Nature of Code, Shiffman (2012) Online version](http://natureofcode.com/book/)
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
