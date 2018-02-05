@@ -174,3 +174,4 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 - [Hello Processing](http://hello.processing.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Processing Foundation](https://processingfoundation.org/)
+- [Collision Detection for Processing](http://www.jeffreythompson.org/collision-detection/)
