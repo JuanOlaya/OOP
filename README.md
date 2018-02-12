@@ -170,8 +170,11 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 
 ### Processing Links:
+- [Download Processing](https://processing.org/download/)
+- [Processing Reference](https://processing.org/reference/)
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
 - [Hello Processing](http://hello.processing.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Processing Foundation](https://processingfoundation.org/)
 - [Collision Detection for Processing](http://www.jeffreythompson.org/collision-detection/)
+- [Hello World! Processing](https://vimeo.com/60731302)
