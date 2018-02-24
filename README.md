@@ -178,3 +178,4 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 - [Processing Foundation](https://processingfoundation.org/)
 - [Collision Detection for Processing](http://www.jeffreythompson.org/collision-detection/)
 - [Hello World! Processing - Documentary](https://vimeo.com/60731302)
+- [Processing for Raspberry Pi](https://www.raspberrypi.org/blog/now-available-for-download-processing/)
