@@ -168,6 +168,7 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 - [Learning Processing Second Edition, Shiffman (2015) Online version](http://learningprocessing.com/examples/)
 - [Nature of Code, Shiffman (2012) Online version](http://natureofcode.com/book/)
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
+- [But what is the Fourier Transform? A visual introduction, 3Blue1Brown (2018)](https://www.youtube.com/watch?v=spUNpyF58BY)
 
 ### Processing Links:
 - [Download Processing](https://processing.org/download/)
@@ -179,4 +180,3 @@ To check the example sketches running please visit [OpenProcessing - Juan Olaya]
 - [Collision Detection for Processing](http://www.jeffreythompson.org/collision-detection/)
 - [Hello World! Processing - Documentary](https://vimeo.com/60731302)
 - [Processing for Raspberry Pi](https://www.raspberrypi.org/blog/now-available-for-download-processing/)
-- [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
