@@ -26,7 +26,7 @@ One Instance + Function move right
 
 <p align="center">
   <a>
-    <img src="Images/processingClassCar.png" width=350 height=190>
+    <img src="Images/processingClassCar.png" width=550 height=290>
   </a>
 </p>
 
