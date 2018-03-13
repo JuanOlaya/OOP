@@ -56,7 +56,7 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 
 <p align="center">
   <a>
-    <img src="Images/Exercise4.gif" width=350 height=190>
+    <img src="Images/Exercise4.gif" width=550 height=290>
   </a>
 </p>
 
