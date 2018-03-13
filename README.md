@@ -43,8 +43,6 @@ Two Instances + Functions move right/left
 #### Step 3: 
 Multiple Instances + ArrayList + Functions move right/left
 
-
-
 <p align="center">
   <a>
     <img src="Images/Exercise3.gif" width=350 height=190>
@@ -56,7 +54,7 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 
 <p align="center">
   <a>
-    <img src="Images/Exercise4.gif" width=550 height=290>
+    <img src="Images/Exercise4.gif" width=350 height=190>
   </a>
 </p>
 
