@@ -107,7 +107,7 @@ Multiple instances of the Class Node showing a dynamic network
 ***
 
 ### Student Sketches
-To see and interact with the sketches made by the students you can visit:
+To see and interact online with the sketches made by the students, you can visit the following classes on OpenProcessing:
 - [Object-Oriented Programming (2017.2)](https://www.openprocessing.org/class/56631/)
 - [Computer Graphics (2017.2)](https://www.openprocessing.org/class/56656/)
 - [Computer Graphics (2017.1)](https://www.openprocessing.org/class/56330/)
