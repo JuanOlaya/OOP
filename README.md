@@ -105,7 +105,7 @@ To see and interact with the sketches made by the students you can visit:
 - [Computer Graphics (2016.2)](https://www.openprocessing.org/class/55669)
 
 ### Example Sketches
-To check the example sketches running please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
+To check more running examples please visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
 <p align="center">
   <a href="https://www.openprocessing.org/user/65585/" target="_blank">
