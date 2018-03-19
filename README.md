@@ -76,6 +76,18 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
   </a>
 </p>
 
+***
+
+### Game Programming (OOP)
+
+<p align="center">
+  <a>
+    <img src="Images/mazeOOP.png" width=350 height=190>
+  </a>
+</p>
+
+
+
 
 #### Coding Challenge 1: 
 Multiple instances of the Class Car shaping a X
