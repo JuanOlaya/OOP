@@ -57,6 +57,9 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
   </a>
 </p>
 
+#### Coding Challenge 1:
+Rotate
+
 #### Step 5: 
 Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
 
@@ -76,7 +79,7 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
   </a>
 </p>
 
-#### Coding Challenge 1: 
+#### Coding Challenge 2: 
 Multiple instances of the Class Car shaping a X
 
 <p align="center">
@@ -85,7 +88,7 @@ Multiple instances of the Class Car shaping a X
   </a>
 </p>
 
-#### Coding Challenge 2: 
+#### Coding Challenge 3: 
 Multiple instances of the Class Node showing a dynamic network
 
 <p align="center">
@@ -97,10 +100,19 @@ Multiple instances of the Class Node showing a dynamic network
 ***
 
 ### Game Programming (OOP)
+#### Maze (OOP):
 
 <p align="center">
   <a>
     <img src="Images/mazeOOP.png" width=350 height=190>
+  </a>
+</p>
+
+#### Keys Pressed Simultaneously:
+
+<p align="center">
+  <a>
+    <img src="Images/keysPressedSimultaneously.png" width=350 height=190>
   </a>
 </p>
 
