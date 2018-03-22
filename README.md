@@ -44,13 +44,13 @@ Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
   <a>
-    <img src="Images/Exercise3.gif" width=600 height=430>
+    <img src="Images/Exercise3.gif" width=350 height=190>
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img src="Images/ArrayListOOP.png" width=350 height=190>
+    <img src="Images/ArrayListOOP.png" width=600 height=430>
   </a>
 </p>
 
