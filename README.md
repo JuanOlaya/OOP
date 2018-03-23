@@ -14,7 +14,7 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 - [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
-#### Step 1: 
+#### Step 1: One Instance
 One Instance + Function move right. [Download Class Car](https://github.com/JuanOlaya/OOP-Processing/tree/master/Sketches/scriptCar)
 
 <p align="center">
@@ -30,7 +30,7 @@ One Instance + Function move right. [Download Class Car](https://github.com/Juan
   </a>
 </p>
 
-#### Step 2: 
+#### Step 2: Two Instances
 Two Instances + Functions move right/left
 
 <p align="center">
@@ -39,7 +39,7 @@ Two Instances + Functions move right/left
   </a>
 </p>
 
-#### Step 3: 
+#### Step 3: ArrayList
 Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
@@ -54,7 +54,7 @@ Multiple Instances + ArrayList + Functions move right/left
   </a>
 </p>
 
-####  Step 4: 
+####  Step 4: Alternative Constructor
 Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left
 
 <p align="center">
@@ -66,7 +66,7 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 #### Coding Challenge 1:
 Rotate
 
-#### Step 5: 
+#### Step 5: Vectors
 Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
 
 <p align="center">
@@ -75,7 +75,7 @@ Location Vector + Rebound Function + Multiple Constructors + Multiple Instances 
   </a>
 </p>
 
-#### Step 6: 
+#### Step 6: Gravity
 Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + ArrayList
 
 
