@@ -107,7 +107,7 @@ Multiple instances of the Class Node showing a dynamic network
 
 ### Game Programming (OOP)
 #### Maze (OOP):
-[Online sketch](https://www.openprocessing.org/sketch/525131)
+[Online sketch](https://www.openprocessing.org/sketch/492006)
 <p align="center">
   <a>
     <img src="Images/mazeOOP.png" width=350 height=190>
