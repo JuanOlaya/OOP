@@ -64,7 +64,13 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
 </p>
 
 #### Coding Challenge 1:
-Rotate
+Multiple instances of the Class Car shaping a X
+
+<p align="center">
+  <a>
+    <img src="Images/CodingChallenge1.gif" width=350 height=190>
+  </a>
+</p>
 
 #### Step 5: Vectors
 Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
@@ -86,13 +92,7 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
 </p>
 
 #### Coding Challenge 2: 
-Multiple instances of the Class Car shaping a X
-
-<p align="center">
-  <a>
-    <img src="Images/CodingChallenge1.gif" width=350 height=190>
-  </a>
-</p>
+Rotate
 
 #### Coding Challenge 3: 
 Multiple instances of the Class Node showing a dynamic network
