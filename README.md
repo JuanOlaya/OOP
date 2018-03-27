@@ -120,7 +120,7 @@ Multiple instances of the Class Node showing a dynamic network
   </a>
 </p>
 
-#### Keys Pressed Simultaneously:
+#### Keys Pressed Simultaneously (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/525131)
 <p align="center">
   <a>
