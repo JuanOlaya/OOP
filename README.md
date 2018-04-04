@@ -112,13 +112,7 @@ Multiple instances of the Class Node showing a dynamic network
 ***
 
 ### Game Programming (OOP)
-#### Maze (OOP):
-[Online sketch](https://www.openprocessing.org/sketch/492006)
-<p align="center">
-  <a>
-    <img src="Images/mazeOOP.png" width=350 height=190>
-  </a>
-</p>
+
 
 #### Keys Pressed Simultaneously (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/525131)
@@ -128,7 +122,16 @@ Multiple instances of the Class Node showing a dynamic network
   </a>
 </p>
 
+#### Collision Detection (OOP):
+[Online sketch](https://www.openprocessing.org/sketch/531753)
 
+#### Maze (OOP):
+[Online sketch](https://www.openprocessing.org/sketch/492006)
+<p align="center">
+  <a>
+    <img src="Images/mazeOOP.png" width=350 height=190>
+  </a>
+</p>
 
 ***
 
