@@ -156,6 +156,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [A Study Path For Game Programmer, Yip (2016)](https://github.com/miloyip/game-programmer)
 - [But what is the Fourier Transform? A visual introduction, 3Blue1Brown (2018)](https://www.youtube.com/watch?v=spUNpyF58BY)
 - [Rose (mathematics)](https://en.wikipedia.org/wiki/Rose_(mathematics))
+- [Poetic Computation](http://poeticcomputation.info/)
 
 ### Processing Links:
 - [Download Processing](https://processing.org/download/)
