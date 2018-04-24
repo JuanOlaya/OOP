@@ -167,6 +167,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
 - [Hello Processing](http://hello.processing.org/)
 - [Hello p5js](http://hello.p5js.org/)
+- [ECMAScript 6](http://es6-features.org/#ClassDefinition)
 - [Online Editor p5js](http://alpha.editor.p5js.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Processing Foundation](https://processingfoundation.org/)
@@ -174,4 +175,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Hello World! Processing - Documentary](https://vimeo.com/60731302)
 - [Processing for Raspberry Pi](https://www.raspberrypi.org/blog/now-available-for-download-processing/)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
 
