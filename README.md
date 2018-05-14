@@ -176,4 +176,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Processing for Raspberry Pi](https://www.raspberrypi.org/blog/now-available-for-download-processing/)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Recode Project](http://recodeproject.com/)
-
+- [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
+- [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
