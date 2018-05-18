@@ -15,8 +15,8 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
 #### Step 1: One Instance
-One Instance + Function move right. [Download Class Car](https://github.com/JuanOlaya/OOP-Processing/tree/master/Sketches/scriptCar)
-[See on OpenProcessing].(https://www.openprocessing.org/sketch/550551)
+One Instance + Function move right. [Download Class Car](https://github.com/JuanOlaya/OOP-Processing/tree/master/Sketches/scriptCar).
+[See on OpenProcessing](https://www.openprocessing.org/sketch/550551)
 
 <p align="center">
   <a>
