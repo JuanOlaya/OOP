@@ -41,7 +41,7 @@ Two Instances + Functions move right/left. [See on OpenProcessing](https://www.o
 </p>
 
 #### Step 3: ArrayList
-Multiple Instances + [ArrayList](https://processing.org/reference/ArrayList.html) + Functions move right/left
+Multiple Instances + [ArrayList](https://processing.org/reference/ArrayList.html) + Functions move right/left.
 [See on OpenProcessing](https://www.openprocessing.org/sketch/550555)
 
 <p align="center">
@@ -57,7 +57,7 @@ Multiple Instances + [ArrayList](https://processing.org/reference/ArrayList.html
 </p>
 
 ####  Step 4: Alternative Constructor
-Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left
+Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left.
 [See on OpenProcessing](https://www.openprocessing.org/sketch/550558)
 
 <p align="center">
@@ -76,7 +76,7 @@ Multiple instances of the Class Car shaping a X
 </p>
 
 #### Step 5: Vectors
-Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList
+Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList.
 [See on OpenProcessing](https://www.openprocessing.org/sketch/550560)
 
 <p align="center">
@@ -86,7 +86,7 @@ Location Vector + Rebound Function + Multiple Constructors + Multiple Instances 
 </p>
 
 #### Step 6: Gravity
-Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + ArrayList
+Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + ArrayList.
 [See on OpenProcessing](https://www.openprocessing.org/sketch/550564)
 
 
