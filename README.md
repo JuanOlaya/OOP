@@ -190,3 +190,4 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Recode Project](http://recodeproject.com/)
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
+- [Algorithmic Art and Trigonometric Design - Mahesh Raghvan](http://maheshraghvan.com/sinexplosion.html)
