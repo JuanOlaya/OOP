@@ -170,7 +170,7 @@ Class Shape extending: Class Circle, Class Square and Class Triangle
 [Online sketch](https://www.openprocessing.org/sketch/525131)
 <p align="center">
   <a>
-    <img src="Images/keysPressedSimultaneously.png" width=350 height=190>
+    <img src="Images/keysPressedSimultaneously.png" width=350 height=230>
   </a>
 </p>
 
