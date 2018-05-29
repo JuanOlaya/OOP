@@ -105,6 +105,7 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
 
 #### Coding Challenge 2: 
 Rotate
+[See on OpenProcessing](https://www.openprocessing.org/sketch/553546)
 
 <p align="center">
   <a>
@@ -114,12 +115,16 @@ Rotate
 
 #### Coding Challenge 3: 
 Multiple instances of the Class Node showing a dynamic network
-
+[See on OpenProcessing](https://www.openprocessing.org/sketch/553547)
 <p align="center">
   <a>
     <img src="Images/CodingChallenge2.gif" width=350 height=190>
   </a>
 </p>
+
+#### Coding Challenge 4: 
+Multiple instances of the Class Point showing a dynamic network
+[See on OpenProcessing](https://www.openprocessing.org/sketch/553549)
 
 ***
 
