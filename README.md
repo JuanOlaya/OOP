@@ -233,4 +233,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 ### Color Palettes:
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
+- [Paletton](http://paletton.com/)
 
