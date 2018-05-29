@@ -151,8 +151,12 @@ Multiple instances of the Class Point showing a dynamic network
 [See on OpenProcessing](https://www.openprocessing.org/sketch/553549)
 
 ***
+### Inheritance + Polymorphism
+Class Shape extending: Class Circle, Class Square and Class Triangle
+[See on OpenProcessing](https://www.openprocessing.org/sketch/556000)
 
-### Game Programming (OOP)
+***
+## Game Programming (OOP)
 
 
 #### Keys Pressed Simultaneously (OOP):
@@ -217,6 +221,9 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Processing for Raspberry Pi](https://www.raspberrypi.org/blog/now-available-for-download-processing/)
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Recode Project](http://recodeproject.com/)
+- [Algorithmic Art and Trigonometric Design - Mahesh Raghvan](http://maheshraghvan.com/sinexplosion.html)
+
+### Color Palettes:
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
-- [Algorithmic Art and Trigonometric Design - Mahesh Raghvan](http://maheshraghvan.com/sinexplosion.html)
+
