@@ -158,7 +158,7 @@ Class Shape extending: Class Circle, Class Square and Class Triangle
 
 <p align="center">
   <a>
-    <img src="Images/InheritancePolymorphism.png" width=350 height=190>
+    <img src="Images/InheritancePolymorphism.png" width=400 height=240>
   </a>
 </p>
 
