@@ -117,6 +117,7 @@ Rotate
 
 #### Coding Challenge 3: 
 Multiple instances of the Class Node showing a dynamic network
+
 [See on OpenProcessing](https://www.openprocessing.org/sketch/553547)
 <p align="center">
   <a>
