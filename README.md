@@ -230,6 +230,10 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Recode Project](http://recodeproject.com/)
 - [Algorithmic Art and Trigonometric Design - Mahesh Raghvan](http://maheshraghvan.com/sinexplosion.html)
 
+### Java API + UML:
+- [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
+- [Abstract and Concrete Classes](http://www.cems.uwe.ac.uk/~jsa/UMLJavaShortCourse09/CGOutput/Unit9/unit9(0809)/page_03.htm)
+
 ### Color Palettes:
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
