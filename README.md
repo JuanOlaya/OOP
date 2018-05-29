@@ -14,6 +14,8 @@ For those courses we use the Java library [Processing](https://processing.org/) 
 - [Coding Challenge 1: Class Car showing a X](#coding-challenge-1)
 - [Coding Challenge 2: Class Node showing a network](#coding-challenge-2)
 
+***
+
 #### Step 1: One Instance
 One Instance + Function move right. [Download Class Car](https://github.com/JuanOlaya/OOP-Processing/tree/master/Sketches/scriptCar).
 
@@ -32,6 +34,8 @@ One Instance + Function move right. [Download Class Car](https://github.com/Juan
   </a>
 </p>
 
+***
+
 #### Step 2: Two Instances
 Two Instances + Functions move right/left. 
 
@@ -42,6 +46,8 @@ Two Instances + Functions move right/left.
     <img src="Images/Exercise2.gif" width=350 height=190>
   </a>
 </p>
+
+***
 
 #### Step 3: ArrayList
 Multiple Instances + [ArrayList](https://processing.org/reference/ArrayList.html) + Functions move right/left.
@@ -60,6 +66,8 @@ Multiple Instances + [ArrayList](https://processing.org/reference/ArrayList.html
   </a>
 </p>
 
+***
+
 ####  Step 4: Alternative Constructor
 Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Functions move right/left.
 
@@ -71,6 +79,8 @@ Rebound Function + Multiple Constructors + Multiple Instances + ArrayList + Func
   </a>
 </p>
 
+***
+
 #### Coding Challenge 1:
 Multiple instances of the Class Car shaping a X
 
@@ -80,6 +90,8 @@ Multiple instances of the Class Car shaping a X
     <img src="Images/CodingChallenge1.gif" width=350 height=190>
   </a>
 </p>
+
+***
 
 #### Step 5: Vectors
 Location Vector + Rebound Function + Multiple Constructors + Multiple Instances + ArrayList.
@@ -91,6 +103,8 @@ Location Vector + Rebound Function + Multiple Constructors + Multiple Instances 
     <img src="Images/Exercise5.gif" width=350 height=190>
   </a>
 </p>
+
+***
 
 #### Step 6: Gravity
 Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + ArrayList.
@@ -104,6 +118,8 @@ Velocity Vector + Gravity Vector + Rebound Function + Multiple Instances + Array
   </a>
 </p>
 
+***
+
 #### Coding Challenge 2: 
 Rotate
 
@@ -115,6 +131,8 @@ Rotate
   </a>
 </p>
 
+***
+
 #### Coding Challenge 3: 
 Multiple instances of the Class Node showing a dynamic network
 
@@ -124,6 +142,8 @@ Multiple instances of the Class Node showing a dynamic network
     <img src="Images/CodingChallenge2.gif" width=350 height=190>
   </a>
 </p>
+
+***
 
 #### Coding Challenge 4: 
 Multiple instances of the Class Point showing a dynamic network
