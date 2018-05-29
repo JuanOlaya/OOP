@@ -153,6 +153,7 @@ Multiple instances of the Class Point showing a dynamic network
 ***
 ### Inheritance + Polymorphism
 Class Shape extending: Class Circle, Class Square and Class Triangle
+
 [See on OpenProcessing](https://www.openprocessing.org/sketch/556000)
 
 ***
