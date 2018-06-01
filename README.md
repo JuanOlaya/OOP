@@ -229,6 +229,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - [Recode Project](http://recodeproject.com/)
 - [Algorithmic Art and Trigonometric Design - Mahesh Raghvan](http://maheshraghvan.com/sinexplosion.html)
+- [The History of Processing by Casey Reas and Ben Fry](https://medium.com/@ProcessingOrg/a-modern-prometheus-59aed94abe85)
 
 ### Java API + UML:
 - [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
