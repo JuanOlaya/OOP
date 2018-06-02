@@ -219,7 +219,6 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
 - [Hello Processing](http://hello.processing.org/)
 - [Hello p5js](http://hello.p5js.org/)
-- [ECMAScript 6](http://es6-features.org/#ClassDefinition)
 - [Online Editor p5js](http://alpha.editor.p5js.org/)
 - [OpenProcessing](https://www.openprocessing.org/)
 - [Processing Foundation](https://processingfoundation.org/)
@@ -234,9 +233,11 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 ### Java API + UML:
 - [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
 - [Abstract and Concrete Classes](http://www.cems.uwe.ac.uk/~jsa/UMLJavaShortCourse09/CGOutput/Unit9/unit9(0809)/page_03.htm)
+- [ECMAScript 6](http://es6-features.org/#ClassDefinition)
 
 ### Color Palettes:
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
 - [Paletton](http://paletton.com/)
+- [Colors](https://coolors.co/)
 
