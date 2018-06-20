@@ -241,4 +241,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
 - [Paletton](http://paletton.com/)
 - [Colors](https://coolors.co/)
+- [thi.ng/color, Karsten Schmidt](https://github.com/thi-ng/color)
 
