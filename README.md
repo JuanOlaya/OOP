@@ -152,7 +152,7 @@ Multiple instances of the Class Point showing a dynamic network
 
 ***
 ### Inheritance + Polymorphism
-The abstract Class Shape (superclase) extending the following concrete classes (subclasses): Class Circle, Class Square and Class Triangle
+The abstract Class Shape (superclass) extending the following concrete classes (subclasses): Class Circle, Class Square and Class Triangle
 
 [See on OpenProcessing](https://www.openprocessing.org/sketch/556000)
 
