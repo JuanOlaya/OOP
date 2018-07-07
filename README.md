@@ -176,6 +176,11 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 
 #### Collision Detection (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/531753)
+<p align="center">
+  <a>
+    <img src="Images/collisionOOP.png" width=350 height=190>
+  </a>
+</p>
 
 #### Maze (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/492006)
