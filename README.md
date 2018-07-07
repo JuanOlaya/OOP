@@ -185,6 +185,14 @@ The abstract Class Shape (superclass) extending the following concrete classes (
   </a>
 </p>
 
+#### Bullet (OOP):
+[Online sketch](https://www.openprocessing.org/sketch/536000)
+<p align="center">
+  <a>
+    <img src="Images/bulletOOP.png" width=350 height=190>
+  </a>
+</p>
+
 ***
 
 ### Student Sketches
