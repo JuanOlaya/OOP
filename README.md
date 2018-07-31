@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) with Processing
+# Object-Oriented Programming (OOP) with p5js + Processing
 
 This repository is associated with the course: Object-Oriented Programming (OOP), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
