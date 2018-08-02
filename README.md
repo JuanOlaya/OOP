@@ -200,7 +200,7 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 
 ***
 ## Bonus: LiveCoding (OOP)
-Also, we can use p5js and OOP in LiveCoding using the tool [Hydra](https://github.com/ojack/hydra) of Olivia Jackson. Hydra has a [web editor](https://hydra-editor-v1.glitch.me/)
+Also, we can use p5js and OOP in LiveCoding using the tool [Hydra](https://github.com/ojack/hydra) of [Olivia Jackson](https://twitter.com/_ojack_). Hydra has a [web editor](https://hydra-editor-v1.glitch.me/)
 <p align="center">
   <a>
     <img src="Images/LiveCodingOOP.png" width=700 height=380>
