@@ -199,6 +199,15 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 </p>
 
 ***
+## Bonus: LiveCoding (OOP)
+<p align="center">
+  <a>
+    <img src="Images/LiveCodingOOP.png" width=700 height=380>
+  </a>
+</p>
+
+
+***
 
 ### Student Sketches
 To see and interact online with the sketches made by the students, you can visit the following classes on OpenProcessing:
