@@ -34,6 +34,12 @@ One Instance + Function move right. [Download Class Car](https://github.com/Juan
   </a>
 </p>
 
+<p align="center">
+  <a>
+    <img src="Images/p5jsClassCar.png" width=500 height=730>
+  </a>
+</p>
+
 ***
 
 #### Step 2: Two Instances
