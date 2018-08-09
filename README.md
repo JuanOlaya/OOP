@@ -36,7 +36,7 @@ One Instance + Function move right. [Download Class Car](https://github.com/Juan
 
 <p align="center">
   <a>
-    <img src="Images/p5jsClassCar.png" width=500 height=730>
+    <img src="Images/p5jsClassCar.png" width=600 height=730>
   </a>
 </p>
 
