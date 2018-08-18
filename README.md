@@ -261,11 +261,12 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [The History of Processing by Casey Reas and Ben Fry](https://medium.com/@ProcessingOrg/a-modern-prometheus-59aed94abe85)
 - [Tinkercad Circuits](https://www.tinkercad.com/circuits)
 
-### Java API + UML:
-- [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
-- [Abstract and Concrete Classes](http://www.cems.uwe.ac.uk/~jsa/UMLJavaShortCourse09/CGOutput/Unit9/unit9(0809)/page_03.htm)
+### JavaScript + UML:
+- [Object-Oriented JavaScript - Third Edition](https://www.amazon.com/Object-Oriented-JavaScript-Third-Ved-Antani-ebook/dp/B01LXG7M2H)
 - [ECMAScript 6](http://es6-features.org/#ClassDefinition)
 - [ECMAScript 2015 - Español](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes)
+- [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
+- [Abstract and Concrete Classes](http://www.cems.uwe.ac.uk/~jsa/UMLJavaShortCourse09/CGOutput/Unit9/unit9(0809)/page_03.htm)
 
 ### Color Palettes:
 - [CSS Colors - w3schools](https://www.w3schools.com/cssref/css_colors.asp)
