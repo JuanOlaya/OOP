@@ -277,3 +277,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Paletton](http://paletton.com/)
 - [thi.ng/color, Karsten Schmidt](https://github.com/thi-ng/color)
 
+
+<a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
