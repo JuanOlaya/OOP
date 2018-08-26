@@ -2,6 +2,9 @@
 
 This repository is associated with the course: Object-Oriented Programming (OOP), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
+
+<a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
+
 For those courses we use the Java library [Processing](https://processing.org/) and its JavaScript version [P5js](https://p5js.org/). The following are the course steps:
 
 ## Course steps
@@ -276,6 +279,3 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
 - [Paletton](http://paletton.com/)
 - [thi.ng/color, Karsten Schmidt](https://github.com/thi-ng/color)
-
-
-<a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
