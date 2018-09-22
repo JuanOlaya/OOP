@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) for Creative Coding with Processing and p5.js
+# Game Development with p5.js using Object-Oriented Programming (OOP) 
 
 This repository is associated with the course: Object-Oriented Programming (OOP), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
