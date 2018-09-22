@@ -1,6 +1,6 @@
 # Object-Oriented Programming (OOP) for Game Development with p5.js
 
-This repository is associated with the course: Object-Oriented Programming (OOP), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
+Chapter of Object-Oriented Programming (OOP) of the book [Game Development with p5.js](https://github.com/JuanOlaya/Game-Development-P5js), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
 
 <a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
