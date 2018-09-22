@@ -1,4 +1,5 @@
-# Game Development with p5.js. Chapter: Object-Oriented Programming (OOP) 
+# Game Development with p5.js. 
+# Chapter: Object-Oriented Programming (OOP) 
 
 This repository is associated with the course: Object-Oriented Programming (OOP), which has been taught in the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
