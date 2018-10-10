@@ -5,7 +5,9 @@ Chapter of Object-Oriented Programming (OOP) of the book [Game Development with 
 
 <a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
 
-For those courses we use the Java library [Processing](https://processing.org/) and its JavaScript version [P5js](https://p5js.org/). The following are the course steps:
+For these course we use the JavaScript library [P5js](https://p5js.org/) and its Java version [Processing](https://processing.org/).
+
+The following are the course steps:
 
 ## Course steps
 - [Step 1: One Instance + Function move right](#step-1)
