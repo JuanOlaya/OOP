@@ -172,7 +172,7 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 </p>
 
 ***
-## Game Programming (OOP)
+## Game Mechanics with Object-Oriented Programming (OOP)
 
 
 #### Keys Pressed Simultaneously (OOP):
