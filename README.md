@@ -209,6 +209,14 @@ The abstract Class Shape (superclass) extending the following concrete classes (
   </a>
 </p>
 
+#### 2 Players Movement + Stop Player by Obstacle (OOP):
+[Online sketch](https://www.openprocessing.org/sketch/620035)
+<p align="center">
+  <a>
+    <img src="Images/2playersMovementObstacleOOP.png" width=350 height=190>
+  </a>
+</p>
+
 ***
 ## Bonus: LiveCoding (OOP) with Hydra
 We use p5js and OOP in LiveCoding using the tool [Hydra](https://github.com/ojack/hydra) of [Olivia Jackson](https://twitter.com/_ojack_). Hydra is available as a package of the code editor [Atom](https://atom.io/) or online on the [web editor](https://hydra-editor-v1.glitch.me/). [Download the JavaScript OOP code](https://gist.github.com/JuanOlaya/4b6e243910cac1f45d1810eab064c784#file-oopv2-js)
