@@ -177,7 +177,7 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 ## Game Mechanics with Object-Oriented Programming (OOP)
 
 
-#### Keys Pressed Simultaneously (OOP):
+#### Player movement with simultaneous keys (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/525131)
 <p align="center">
   <a>
@@ -201,7 +201,7 @@ The abstract Class Shape (superclass) extending the following concrete classes (
   </a>
 </p>
 
-#### Bullet (OOP):
+#### Bullets (OOP):
 [Online sketch](https://www.openprocessing.org/sketch/536000)
 <p align="center">
   <a>
