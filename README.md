@@ -211,7 +211,7 @@ The abstract Class Shape (superclass) extending the following concrete classes (
 [Online sketch](https://www.openprocessing.org/sketch/620035)
 <p align="center">
   <a>
-    <img src="Images/2playersMovementObstacleOOP.png" width=350 height=250>
+    <img src="Images/2playersMovementObstacleOOP.png" width=400 height=300>
   </a>
 </p>
 
