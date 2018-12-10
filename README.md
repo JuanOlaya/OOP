@@ -3,8 +3,6 @@
 Object-Oriented Programming (OOP) has been taught at the university [School of Arts and Letters](https://artesyletras.com.co/ingenieria-de-las-artes-digitales/) (Bogotá-Colombia) by Juan Olaya since the semester 2016.2 to the present. 
 
 
-<a href="https://zenodo.org/badge/latestdoi/102818584"><img src="https://zenodo.org/badge/102818584.svg" alt="DOI"></a>
-
 For this course we use the JavaScript library [P5js](https://p5js.org/) and its Java version [Processing](https://processing.org/).
 
 The following are the course steps:
