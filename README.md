@@ -282,6 +282,8 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [ECMAScript 2015 - Español](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes)
 - [Abstract Methods and Classes](https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html)
 - [Abstract and Concrete Classes](http://www.cems.uwe.ac.uk/~jsa/UMLJavaShortCourse09/CGOutput/Unit9/unit9(0809)/page_03.htm)
+- [A guide to prototype-based class inheritance in JavaScript](https://medium.freecodecamp.org/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0)
+- [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 
 ### Color Palettes:
 - [Adobe Color](https://color.adobe.com/)
