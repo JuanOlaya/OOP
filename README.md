@@ -260,4 +260,8 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [A guide to prototype-based class inheritance in JavaScript](https://medium.freecodecamp.org/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0)
 - [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 
+### Game Design
+- [Rules of Play: Game Design Fundamentals](https://mitpress.mit.edu/books/rules-play)
+- [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
+
 
