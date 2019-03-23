@@ -251,7 +251,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 
 
 
-### JavaScript + UML:
+### JavaScript + UML
 - [Object-Oriented JavaScript - Third Edition](https://www.amazon.com/Object-Oriented-JavaScript-Third-Ved-Antani-ebook/dp/B01LXG7M2H)
 - [ECMAScript 6](http://es6-features.org/#ClassDefinition)
 - [ECMAScript 2015 - Español](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Classes)
