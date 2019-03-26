@@ -264,4 +264,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Rules of Play: Game Design Fundamentals](https://mitpress.mit.edu/books/rules-play)
 - [The Art of Game Design: A Book of Lenses](https://www.amazon.com/Art-Game-Design-Book-Lenses/dp/0123694965)
 
+### Game Development
+- [MIT Explains: How To Make a Video Game](https://www.youtube.com/watch?v=Ex1ktxOxVgI&feature=youtu.be)
+
 
