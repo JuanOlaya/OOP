@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) for Game Development with p5.js
+# Object-Oriented Game Development with p5.js
 
 Object-Oriented Programming (OOP) by Juan Olaya
 
