@@ -1,6 +1,6 @@
 # Object-Oriented Game Development with p5.js
 
-Object-Oriented Programming (OOP) by Juan Olaya
+Object-Oriented Programming (OOP) for Game Development with p5.js by [Juan Olaya](https://juanolaya.github.io/)
 
 
 For this course we use the JavaScript library [P5js](https://p5js.org/) and its Java version [Processing](https://processing.org/).
