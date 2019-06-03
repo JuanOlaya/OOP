@@ -43,6 +43,21 @@ function draw() {
 	physicsInfo();
 }
 
+function keyPressed() {
+  if (keyIsDown(32)){
+    print("entra space");
+    jump= true;
+    solto=false;
+  }
+}
+
+function keyReleased() {
+  if (keyIsDown(32)) {
+    jump=false;
+    solto=true;
+  }
+}
+
 function playerMovementInput(){
 	if (keyIsDown(LEFT_ARROW))  {
     player.moveLeft();
