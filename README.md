@@ -271,4 +271,6 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 ### Game Development
 - [MIT Explains: How To Make a Video Game](https://www.youtube.com/watch?v=Ex1ktxOxVgI&feature=youtu.be)
 
+- [Game Programming 2017-2018](https://github.com/skooter500/GP-2017-2018#week-2---digital-audio)
+
 
