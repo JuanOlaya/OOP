@@ -3,7 +3,7 @@
 Object-Oriented Programming (OOP) for Game Development with p5.js by [Juan Olaya](https://juanolaya.github.io/)
 
 
-For this course we use the JavaScript library [P5js](https://p5js.org/) and its Java version [Processing](https://processing.org/).
+For this course we use the JavaScript library [p5.js](https://p5js.org/) and its Java version [Processing](https://processing.org/).
 
 The following are the course steps:
 
@@ -214,6 +214,8 @@ The abstract Class Shape (superclass) extending the following concrete classes (
     <img src="Images/2playersMovementObstacleOOP.png" width=500 height=420>
   </a>
 </p>
+
+#### Camera movement:
 
 ***
 ## Bonus: LiveCoding (OOP) with Hydra
