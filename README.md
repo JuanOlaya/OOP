@@ -277,5 +277,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 
 - [MiniGames p5/Processing](https://www.fal-works.com/games)
 
+- [The perfect p5.js + VSCode setup](https://www.notion.so/The-perfect-p5-js-VSCode-setup-for-everyday-creative-coding-414c7eb4fb524da28d53763777d427b8)
+
 
 
