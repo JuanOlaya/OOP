@@ -286,6 +286,8 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [MiniGames p5/Processing](https://www.fal-works.com/games)
 
 - [The perfect p5.js + VSCode setup](https://www.notion.so/The-perfect-p5-js-VSCode-setup-for-everyday-creative-coding-414c7eb4fb524da28d53763777d427b8)
+- [Inheritance in JavaScript](https://www.youtube.com/watch?v=MfxBfRD0FVU&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=20)
+- [Polymorphism in JavaScript](https://www.youtube.com/watch?v=8a5BkwuZRK0&list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr&index=20)
 
 
 
