@@ -270,6 +270,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [A guide to prototype-based class inheritance in JavaScript](https://medium.freecodecamp.org/a-guide-to-prototype-based-class-inheritance-in-javascript-84953db26df0)
 - [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/)
 
 ### Algorithms
 - [Grids](http://www-cs-students.stanford.edu/~amitp/game-programming/grids/)
